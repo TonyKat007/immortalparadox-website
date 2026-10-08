@@ -9,7 +9,6 @@ Founder & CEO: **Tanmay Rajput**.
 | File | Purpose |
 |---|---|
 | `index.html` | **The entire website.** Edit this file — everything (CSS + JS + art) is inside it. |
-| `DEPLOYMENT.md` | Step-by-step guide to deploy on a **free domain**. |
 | `README.md` | This file. |
 
 ## Preview locally
